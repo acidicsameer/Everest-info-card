@@ -6,4 +6,4 @@ A responsive, animated HTML/CSS card showcasing Mount Everest—complete with ho
 - Fade-in animation on load  
 - Hover scale + shadow on buttons   
 - Font Awesome mountain icon  
-- Subtle diagonal background gradient
+
