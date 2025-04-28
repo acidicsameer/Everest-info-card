@@ -1,0 +1,91 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.everest{
+    background-color: azure;
+    border: 1px solid rgb(232, 192, 192);
+    margin: 90px 500px 0px 500px;
+    width:500px;
+    height:550px;
+    padding:3px;
+    box-sizing: border-box;
+}
+.content{
+    border-radius: 15px;
+    height:500px;
+    width:450 px;
+    margin:20px;
+    border:2px solid rgb(203, 209, 213);
+    box-sizing: border-box;
+    
+
+}
+.everest img{
+    width:400px;
+    border-radius: 25px;
+    margin: 5px 25px 5px 25px ;
+padding:3px;
+height:200px;
+box-sizing: border-box;
+
+}
+.everest span{
+    font-family: oblique;
+    margin:5px;
+    padding:2px;
+    border:2px solid rgb(189, 221, 245);
+    border-radius: 25px; 
+    color:rgb(1, 21, 21)
+}
+.everest span:hover{
+    cursor: pointer;
+    background-color:rgb(61, 61, 155);
+    color:white;
+    transition: 0.8s  ease-in-out;
+    transform: scale(1.1);
+}
+.everest p{
+    font-size: large;
+    margin:10px ;
+    font-family:Roboto;
+    
+}
+.everest p1{
+    color:rgb(0, 8, 10);
+    padding: 2px;
+    margin: 5px;
+    word-break:break-all;
+    font-family:Roboto;
+}
+.readmore{
+   color:rgb(48, 48, 237);
+   border-radius: 25px;
+   border: 2px solid black;
+   width:70px;
+  margin-left:200px;
+  margin-top:10px;
+height:25px;
+font-size: small;
+align-content: center;
+text-align: center;
+}
+.readmore:hover{
+    cursor: pointer;
+    background-color:rgb(61, 61, 155);
+    color:white;
+    transform: scale(1.1);
+    transition: 0.8s ease-in ;
+    border-radius: 25px;
+}
+
+body {
+    background: linear-gradient(
+    to left,
+      #2c2c63,
+      #1c1e1f
+      
+    );
+  }
+
+
